@@ -1,6 +1,6 @@
 Hi there 👋!
 
-I am an Economics Ph.D. student at MIT. I'm interested in industrial organization, behavioral economics, and macroeconomics. See my some of my research [here](https://rebekahanne.github.io/publication/). 
+I am an Economics Ph.D. student at MIT. I'm interested in industrial organization, behavioral economics, computational economics, and macroeconomics. See my some of my research [here](https://rebekahanne.github.io/publication/). Before MIT, I studied economics, mathematics, computer science, and African Studies at UW-Madison.
 
 <!--
 **rebekahanne/rebekahanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
