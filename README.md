@@ -1,6 +1,10 @@
 Hi there 👋!
 
-I am an Economics Ph.D. student at MIT. I'm interested in industrial organization, behavioral economics, computational economics, and macroeconomics. See my some of my research [here](https://rebekahanne.github.io/publication/). Before MIT, I studied economics, mathematics, computer science, and African Studies at UW-Madison.
+My name is [Rebekah Dix](https://rebekahanne.github.io/), and I'm a PhD student at [MIT Economics](https://economics.mit.edu/). My primary field is industrial organization ✈️. I'm also interested in applied macroeconomics, computational economics, and behavioral economics.
+
+See my some of my research [here](https://rebekahanne.github.io/publication/). 
+
+Before MIT, I studied economics, mathematics, computer science, and African Studies at UW-Madison 🦡..
 
 ![Rebekah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebekahanne&count_private=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebekahanne&layout=compact&count_private=true&theme=dark&langs_count=10)](https://github.com/rebekahanne/github-readme-stats)
