@@ -3,7 +3,7 @@ Hi there 👋!
 I am an Economics Ph.D. student at MIT. I'm interested in industrial organization, behavioral economics, computational economics, and macroeconomics. See my some of my research [here](https://rebekahanne.github.io/publication/). Before MIT, I studied economics, mathematics, computer science, and African Studies at UW-Madison.
 
 ![Rebekah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebekahanne&count_private=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebekahanne&layout=compact)](https://github.com/rebekahanne/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebekahanne&layout=compact&count_private=true&theme=dark)](https://github.com/rebekahanne/github-readme-stats)
 
 
 <!--
