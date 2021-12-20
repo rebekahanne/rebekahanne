@@ -1,6 +1,6 @@
 Hi there 👋!
 
-My name is [Rebekah Dix](https://rebekahanne.github.io/), and I'm a PhD student at [MIT Economics](https://economics.mit.edu/). My primary field is industrial organization ✈️. I'm also interested in applied macroeconomics, computational economics, and finance.
+My name is [Rebekah Dix](https://rebekahanne.github.io/), and I'm a PhD student at [MIT Economics](https://economics.mit.edu/). My primary field is industrial organization ✈️. I'm also interested in antitrust, innovation, productivity, and open-source science.
 
 See my some of my research [here](https://rebekahanne.github.io/publication/). 
 
