@@ -1,10 +1,12 @@
 Hi there 👋!
 
-My name is [Rebekah Dix](https://rebekahanne.github.io/), and I'm a PhD student at [MIT Economics](https://economics.mit.edu/). My primary field is industrial organization ✈️. I'm also interested in antitrust, innovation, productivity, and open-source science.
+I am a Ph.D. student in economics at MIT. I will join Stanford University as an Assistant Professor of Economics in 2027, following postdoctoral fellowships at the Cowles Foundation at Yale University and the Stanford Institute for Economic Policy Research.
 
-See my some of my research [here](https://rebekahanne.github.io/research/). 
+My main field of research is industrial organization, focusing on topics in innovation and health.
 
-Before MIT, I studied economics, mathematics, computer science, and African Studies at UW-Madison 🦡.
+See some of my research [here](https://rebekahanne.github.io/research/). 
+
+Before MIT, I studied economics, mathematics, and computer science at UW-Madison 🦡.
 
 <!-- 
 ![Rebekah's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebekahanne&count_private=true&theme=dark)
