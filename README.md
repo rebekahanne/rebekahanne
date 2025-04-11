@@ -1,6 +1,9 @@
 Hi there 👋!
 
-I am a Ph.D. student in economics at MIT. I will join Stanford University as an Assistant Professor of Economics in 2027, following postdoctoral fellowships at the Cowles Foundation at Yale University and the Stanford Institute for Economic Policy Research.
+I am a Ph.D. student in economics at MIT. 
+
+<!-- I will join Stanford University as an Assistant Professor of Economics in 2027, following postdoctoral fellowships at the Cowles Foundation at Yale University and the Stanford Institute for Economic Policy Research.
+-->
 
 My main field of research is industrial organization, focusing on topics in innovation and health.
 
